@@ -14,6 +14,10 @@
 | Hardware Integration| Combines Arduino, servo motors, and sensors for comprehensive security. |
 | Learning Experience | Demonstrates the synergy between coding and hardware. |
 
+
+
+
+
 ## ► Technologies Used
 | Component | Description                                  |
 |-----------|----------------------------------------------|

@@ -3,8 +3,11 @@
 ### SecureZone for Military integrates Arduino coding with hardware components to enhance security. Using IR sensors, servo motors, and RFID technology, it detects unauthorized access and provides real-time alerts, combining both hardware and software for an effective security solution.
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/securezone-demo.mp4" muted loop autoPlay />
+  <video src="https://github.com/user-attachments/assets/6f6c65c6-1c52-404d-b64f-c452969d959e" muted loop autoPlay />
 </div>
+
+
+
 
 ## ► Features
 | Feature             | Description                                         |
